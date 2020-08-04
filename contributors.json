@@ -1,0 +1,15 @@
+{
+    "projectName": "habit-tracker",
+    "projectOwner": "lehal-paydar-king",
+    "contributors": [
+        {
+            "name": "Tej Lehal",
+            "username": "hplehal",
+            "skills": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ]
+}
